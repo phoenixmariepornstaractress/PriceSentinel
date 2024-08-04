@@ -1,0 +1,15 @@
+{
+    "email_sender": "your_email@example.com",
+    "email_recipient": "recipient_email@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "email_password": "your_email_password",
+    "twilio_account_sid": "your_twilio_account_sid",
+    "twilio_auth_token": "your_twilio_auth_token",
+    "twilio_phone_number": "your_twilio_phone_number",
+    "recipient_phone_number": "recipient_phone_number",
+    "slack_token": "your_slack_token",
+    "slack_channel": "#your_channel",
+    "price_change_threshold": 0.05,
+    "webhook_url": "your_webhook_url"
+}
